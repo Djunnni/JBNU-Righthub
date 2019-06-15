@@ -5,21 +5,26 @@
 # Screenshot
 
 <div>
-  <img width="240" src="https://github.com/Djunnni/Righthub/blob/master/img/Righthub1.png">
-  <img width="240" src="https://github.com/Djunnni/Righthub/blob/master/img/Righthub2.png">
-  <img width="240" src="https://github.com/Djunnni/Righthub/blob/master/img/Righthub3.png">
-  <img width="240" src="https://github.com/Djunnni/Righthub/blob/master/img/Righthub5.png">
-  <img width="240" src="https://github.com/Djunnni/Righthub/blob/master/img/Righthub6.png">
-  <img width="240" src="https://github.com/Djunnni/Righthub/blob/master/img/Righthub7.png">
-  <img width="240" src="https://github.com/Djunnni/Righthub/blob/master/img/Righthub8.png">
-  <img width="240" src="https://github.com/Djunnni/Righthub/blob/master/img/Righthub9.png">
-  <img width="240" src="https://github.com/Djunnni/Righthub/blob/master/img/Righthub10.png">
-  <img width="240" src="https://github.com/Djunnni/Righthub/blob/master/img/Righthub12.png">
-  <img width="240" src="https://github.com/Djunnni/Righthub/blob/master/img/Righthub13.png">
-  <img width="240" src="https://github.com/Djunnni/Righthub/blob/master/img/Righthub14.png">
-  <img width="240" src="https://github.com/Djunnni/Righthub/blob/master/img/Righthub15.png">
-  <img width="240" src="https://github.com/Djunnni/Righthub/blob/master/img/Righthub17.png">
-  </div>
+  <p> login (Main) </p>
+  <img width="360" src="https://github.com/Djunnni/Righthub/blob/master/img/Righthub9.png">
+  <p> Sign Up </p>
+  <img width="360" src="https://github.com/Djunnni/Righthub/blob/master/img/Righthub13.png">
+  <p> ADMIN page </p>
+  <img width="360" src="https://github.com/Djunnni/Righthub/blob/master/img/Righthub10.png">
+  <img width="360" src="https://github.com/Djunnni/Righthub/blob/master/img/Righthub12.png">
+  <p> For Professor </p>
+  <img width="360" src="https://github.com/Djunnni/Righthub/blob/master/img/Righthub8.png">
+  <img width="360" src="https://github.com/Djunnni/Righthub/blob/master/img/Righthub7.png">
+  <img width="360" src="https://github.com/Djunnni/Righthub/blob/master/img/Righthub6.png">
+  <img width="360" src="https://github.com/Djunnni/Righthub/blob/master/img/Righthub5.png">
+  <img width="360" src="https://github.com/Djunnni/Righthub/blob/master/img/Righthub3.png">
+  <img width="360" src="https://github.com/Djunnni/Righthub/blob/master/img/Righthub2.png">
+  <img width="360" src="https://github.com/Djunnni/Righthub/blob/master/img/Righthub1.png">
+  <p> For Student </p>
+  <img width="360" src="https://github.com/Djunnni/Righthub/blob/master/img/Righthub17.png">
+  <img width="360" src="https://github.com/Djunnni/Righthub/blob/master/img/Righthub14.png">
+  <img width="360" src="https://github.com/Djunnni/Righthub/blob/master/img/Righthub15.png">
+ </div>
   
 # CopyRight
   
