@@ -17,8 +17,8 @@
 <% 
 	String name = request.getParameter("id");
 	String password = request.getParameter("password");
-	if(name.equals("root") && password.equals("web2019")){
-		// ID : root, PASSWORD : web2019
+	if(name.equals("****") && password.equals("****")){
+		// ID PASSWORD
 %>
 	<jsp:useBean id="dao" class="Righthub.LoginDao" scope="page"></jsp:useBean>	
 <%
