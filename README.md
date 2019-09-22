@@ -28,11 +28,8 @@
   <img width="360" src="https://github.com/Djunnni/Righthub/blob/master/img/Righthub15.png">
  </div>
   
-# CopyRight
   
    오픈소스를 사용하였으며 해당 프로젝트에 대한 DB 스키마는 제공하지 않습니다.
-   
    또한 위 프로젝트를 사용하시길 원하시면 위에 clone을 눌러 사용하세요. 
-   
    @Djunnni
    
